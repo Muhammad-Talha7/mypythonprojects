@@ -1,3 +1,4 @@
+import random
 class Club:
     def __init__(self, name, nation, group):
         self.name = name
@@ -13,6 +14,7 @@ with open("D:\\Code\\git\\mypythonprojects\\ucl\\ucl.txt", "r") as f:
         name, nation, group = [x.strip().strip('"') for x in line.strip().split(",")]
         clubs.append(Club(name, nation, group))
 
+random.shuffle(clubs)
 fixtures = set()
 for club in clubs:
     for opponent in clubs:
