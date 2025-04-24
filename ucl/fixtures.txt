@@ -1,137 +1,136 @@
-Juventus vs Stuttgart
+Feyenoord vs Manchester City
+PSV Eindhoven vs RB Leipzig
+Crvena Zvezda vs Benfica
+Salzburg vs Liverpool
+Sporting CP vs Bologna
+Crvena Zvezda vs Atlético de Madrid
+Club Brugge vs Young Boys
+Crvena Zvezda vs Borussia Dortmund
+Lille vs Sparta Praha
+Sporting CP vs Salzburg
+Atalanta vs Girona
+Salzburg vs Benfica
+Salzburg vs Atlético de Madrid
+PSV Eindhoven vs Club Brugge
+RB Leipzig vs Young Boys
+PSV Eindhoven vs Young Boys
+Salzburg vs Borussia Dortmund
+Shakhtar vs Brest
+Sturm Graz vs Bologna
+Crvena Zvezda vs Girona
+Shakhtar vs Aston Villa
+Paris Saint-Germain vs Liverpool
+Paris Saint-Germain vs Sturm Graz
 Brest vs Aston Villa
-Monaco vs Sturm Graz
-Monaco vs Feyenoord
-Slovan Bratislava vs Young Boys
-Lille vs Celtic
-PSV Eindhoven vs Aston Villa
-Monaco vs Bologna
-Manchester City vs GNK Dinamo
-Atalanta vs Sparta Praha
-Girona vs Salzburg
-Club Brugge vs Lille
-Borussia Dortmund vs Real Madrid
-Bologna vs GNK Dinamo
-Celtic vs Slovan Bratislava
-Sturm Graz vs GNK Dinamo
-Liverpool vs GNK Dinamo
-Shakhtar vs Young Boys
+Atlético de Madrid vs Slovan Bratislava
+Young Boys vs Aston Villa
 Inter vs Bayer Leverkusen
-Real Madrid vs Crvena Zvezda
-Arsenal vs Atlético de Madrid
-Manchester City vs Barcelona
-Stuttgart vs Girona
-Inter vs Feyenoord
-Slovan Bratislava vs Stuttgart
-RB Leipzig vs Aston Villa
-Benfica vs Monaco
-Liverpool vs Barcelona
-Bayer Leverkusen vs GNK Dinamo
-Monaco vs Bayer Leverkusen
-Celtic vs Barcelona
-Slovan Bratislava vs Girona
-Atalanta vs Crvena Zvezda
-Stuttgart vs Young Boys
-Arsenal vs RB Leipzig
-Benfica vs Crvena Zvezda
-Atlético de Madrid vs Brest
-Borussia Dortmund vs Aston Villa
-Club Brugge vs Sturm Graz
-Atlético de Madrid vs PSV Eindhoven
-Shakhtar vs Stuttgart
-Lille vs GNK Dinamo
-Juventus vs Barcelona
-Shakhtar vs Girona
-Paris Saint-Germain vs Young Boys
-Arsenal vs Borussia Dortmund
-Arsenal vs Atalanta
-Club Brugge vs Liverpool
-Salzburg vs Bayern München
-Juventus vs Bayern München
-Benfica vs Inter
-Brest vs Sparta Praha
-Bologna vs Lille
-Milan vs Sturm Graz
-GNK Dinamo vs Celtic
-Sturm Graz vs Lille
-Young Boys vs Salzburg
-Sparta Praha vs Crvena Zvezda
-Atlético de Madrid vs Borussia Dortmund
-Bayer Leverkusen vs Bologna
-Barcelona vs Young Boys
-Club Brugge vs Slovan Bratislava
-Atlético de Madrid vs Atalanta
-Sporting CP vs Brest
-Real Madrid vs Feyenoord
-Shakhtar vs Celtic
-Paris Saint-Germain vs Stuttgart
-Sporting CP vs PSV Eindhoven
-Slovan Bratislava vs Barcelona
-RB Leipzig vs Brest
-Atalanta vs Real Madrid
-Milan vs Liverpool
-Bayer Leverkusen vs Lille
-RB Leipzig vs PSV Eindhoven
-Inter vs Monaco
-Benfica vs Real Madrid
-Arsenal vs Sporting CP
-Milan vs Young Boys
-Manchester City vs Sturm Graz
-Girona vs Bayern München
-Manchester City vs Bologna
-Atalanta vs Feyenoord
-Bologna vs Sturm Graz
-PSV Eindhoven vs Crvena Zvezda
-Club Brugge vs Paris Saint-Germain
-Benfica vs Feyenoord
-Shakhtar vs Barcelona
-PSV Eindhoven vs Brest
-Benfica vs Bologna
-Manchester City vs Lille
-Atlético de Madrid vs RB Leipzig
-Atlético de Madrid vs Sporting CP
-Shakhtar vs Bayern München
-Atlético de Madrid vs Aston Villa
-Atalanta vs Aston Villa
-Paris Saint-Germain vs Slovan Bratislava
-Bologna vs Liverpool
-Sporting CP vs Borussia Dortmund
-Milan vs Shakhtar
-Sturm Graz vs Liverpool
-Stuttgart vs Barcelona
-Milan vs Paris Saint-Germain
-Club Brugge vs GNK Dinamo
-RB Leipzig vs Real Madrid
-Juventus vs Girona
-Benfica vs Bayer Leverkusen
-Sparta Praha vs Feyenoord
-Sporting CP vs Feyenoord
-Feyenoord vs Crvena Zvezda
-Aston Villa vs Sparta Praha
-Borussia Dortmund vs Brest
-Real Madrid vs Monaco
-PSV Eindhoven vs Borussia Dortmund
-Sparta Praha vs Inter
-Inter vs Crvena Zvezda
-Atalanta vs Manchester City
-Arsenal vs Brest
-Benfica vs Club Brugge
-RB Leipzig vs Inter
-Arsenal vs PSV Eindhoven
-Juventus vs Salzburg
-Shakhtar vs Juventus
-Manchester City vs Paris Saint-Germain
-Milan vs Slovan Bratislava
-Lille vs Liverpool
+Benfica vs Slovan Bratislava
+Club Brugge vs Bayern München
+Inter vs Celtic
+Arsenal vs Monaco
+Juventus vs Real Madrid
+Shakhtar vs RB Leipzig
+Milan vs Bayer Leverkusen
+Club Brugge vs Arsenal
+Salzburg vs Girona
+Celtic vs Monaco
+Inter vs Arsenal
+Feyenoord vs Monaco
+Sporting CP vs Atalanta
+Crvena Zvezda vs Slovan Bratislava
+Young Boys vs Bayern München
+Young Boys vs Feyenoord
+PSV Eindhoven vs Celtic
+Crvena Zvezda vs Lille
+PSV Eindhoven vs Bayern München
+Girona vs Sparta Praha
+Arsenal vs Stuttgart
+Milan vs Atlético de Madrid
 Celtic vs Stuttgart
-Milan vs Celtic
-Sporting CP vs Aston Villa
-Arsenal vs Sparta Praha
-Borussia Dortmund vs Inter
-RB Leipzig vs Sporting CP
-Monaco vs Crvena Zvezda
-Liverpool vs Paris Saint-Germain
-Celtic vs Paris Saint-Germain
+Shakhtar vs Young Boys
+Manchester City vs Monaco
+Feyenoord vs Stuttgart
+Salzburg vs Slovan Bratislava
+Monaco vs Sturm Graz
+Benfica vs Juventus
+RB Leipzig vs Club Brugge
+Monaco vs Bologna
+Benfica vs Real Madrid
+Celtic vs Arsenal
+Manchester City vs Stuttgart
+GNK Dinamo vs Bayer Leverkusen
+Barcelona vs GNK Dinamo
+Paris Saint-Germain vs Bologna
+Manchester City vs Celtic
+Brest vs Stuttgart
+Bayern München vs Inter
+Juventus vs Sparta Praha
+Shakhtar vs Bayern München
+GNK Dinamo vs Paris Saint-Germain
+Bayern München vs Manchester City
+Aston Villa vs Stuttgart
+Club Brugge vs Brest
+Sporting CP vs GNK Dinamo
+RB Leipzig vs Inter
+Atlético de Madrid vs Liverpool
+Barcelona vs Liverpool
+Shakhtar vs Club Brugge
+Barcelona vs Sporting CP
+Girona vs Borussia Dortmund
+Barcelona vs Arsenal
+PSV Eindhoven vs Brest
+Feyenoord vs Celtic
+Celtic vs Milan
+Feyenoord vs Inter
+Feyenoord vs Milan
+Atlético de Madrid vs Paris Saint-Germain
+Barcelona vs Paris Saint-Germain
+Feyenoord vs Arsenal
+Borussia Dortmund vs Slovan Bratislava
+GNK Dinamo vs Sturm Graz
+Sporting CP vs Bayer Leverkusen
+Benfica vs Borussia Dortmund
+Manchester City vs Bayer Leverkusen
+Bayer Leverkusen vs Sturm Graz
+Atalanta vs Paris Saint-Germain
+Lille vs Juventus
+GNK Dinamo vs Bologna
+Bayer Leverkusen vs Bologna
+Manchester City vs Milan
+Lille vs Real Madrid
+Slovan Bratislava vs Sparta Praha
+GNK Dinamo vs Salzburg
+Liverpool vs Girona
+Shakhtar vs Arsenal
+Sporting CP vs Paris Saint-Germain
+Bayern München vs Brest
+Inter vs Monaco
+Benfica vs Girona
+Girona vs Slovan Bratislava
+Bayern München vs Aston Villa
+Club Brugge vs Aston Villa
+Barcelona vs Sturm Graz
+Milan vs Monaco
+Borussia Dortmund vs Juventus
+Atalanta vs Liverpool
+Shakhtar vs PSV Eindhoven
+Atalanta vs Sturm Graz
+Atlético de Madrid vs Bologna
+Young Boys vs Brest
+Barcelona vs Bologna
+Barcelona vs Milan
+RB Leipzig vs Manchester City
+Borussia Dortmund vs Real Madrid
+RB Leipzig vs Brest
+Inter vs Stuttgart
+Liverpool vs Slovan Bratislava
+Crvena Zvezda vs Liverpool
+RB Leipzig vs Aston Villa
+PSV Eindhoven vs Aston Villa
+Milan vs Stuttgart
+Atalanta vs Atlético de Madrid
 Real Madrid vs Sparta Praha
-Bayer Leverkusen vs Club Brugge
-Bayer Leverkusen vs Manchester City
+Sporting CP vs Sturm Graz
+GNK Dinamo vs Atalanta
+Bayer Leverkusen vs Atalanta
