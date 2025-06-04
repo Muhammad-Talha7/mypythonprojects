@@ -7,7 +7,7 @@ class Club:
         self.played_against = {"A": 0, "B": 0, "C": 0, "D": 0}
         self.matches = set()
 
-with open("D:\\Code\\git\\mypythonprojects\\ucl\\ucl.txt", "r") as f:
+with open("D:\\git\\mypythonprojects\\ucl\\ucl.txt", "r") as f:
 
     clubs = []
     for line in f:
@@ -36,6 +36,6 @@ print("Fixtures:")
 for fixture in fixtures:
     print(f"{fixture[0]} vs {fixture[1]}")
 
-with open("D:\\Code\\git\\mypythonprojects\\ucl\\fixtures.txt", "w") as f:
+with open("D:\\git\\mypythonprojects\\ucl\\fixtures.txt", "w") as f:
     for fixture in fixtures:
         f.write(f"{fixture[0]} vs {fixture[1]}\n")
